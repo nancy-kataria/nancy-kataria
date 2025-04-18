@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+
+I'm Nancy Kataria
+
+[<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/paradoxical_mushroom) &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/nancy-kataria8/) &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/nancy_kataria/) &nbsp; [<img src="https://img.icons8.com/?size=100&id=n98knU41v5Aq&format=png&color=000000" width="3.5%"/>](https://dev.to/nancy_kataria) &nbsp; <a href="mailto:katarianancy8@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 <!--
 **nancy-kataria/nancy-kataria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
